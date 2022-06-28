@@ -1,0 +1,2 @@
+RANDOM=site.conghucai.hosts.balance.impl.RandomNodeSelector
+ROUND=site.conghucai.hosts.balance.impl.RoundNodeSelector

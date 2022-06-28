@@ -1,0 +1,3 @@
+Jdk=site.conghucai.protocol.serializer.impl.JdkSerializer
+Json=site.conghucai.protocol.serializer.impl.JsonSerializer
+Protostuff=site.conghucai.protocol.serializer.impl.ProtostuffSerializer

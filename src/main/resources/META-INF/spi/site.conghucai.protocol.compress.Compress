@@ -1,0 +1,3 @@
+None=site.conghucai.protocol.compress.impl.NoneCompress
+Gzip=site.conghucai.protocol.compress.impl.GzipCompress
+Snappy=site.conghucai.protocol.compress.impl.SnappyCompress
